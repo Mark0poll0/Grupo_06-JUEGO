@@ -1,0 +1,18 @@
+# Entorno Virtual local
+.venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuraciones locales de IDEs
+.vscode/
+.idea/
+
+# Datos dinámicos y modelos entrenados (opcional pasarlos por Git)
+# data/human_moves.csv
+# models/adaptive_model.pkl
