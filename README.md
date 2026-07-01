@@ -46,7 +46,10 @@ python -m venv .venv
 ```bash
 .venv\Scripts\activate.bat
 ```
-
+o
+```bash
+.venv\Scripts\Activate.ps1
+```
 Nota: Sabrás que se activó correctamente porque verás el prefijo (.venv) al inicio de la línea de comandos.
 
 
